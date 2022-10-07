@@ -2,13 +2,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
 
-```bash
+TECH-STACK USED:
+FRONTEND: next.js
+BACKEND: sanity io
+
+
+Go inside the ecommerce file 
+for the frontend part you can use command:
 npm run dev
-# or
-yarn dev
-```
+for the backend part you can go inside sanity_ecommerce
+use command:
+sanity_start
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
