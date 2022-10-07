@@ -3,14 +3,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 
-TECH-STACK USED:
+TECH-STACK USED::
 FRONTEND: next.js
 BACKEND: sanity io
 
 
 Go inside the ecommerce file 
 for the frontend part you can use command:
-npm run dev
+npm run dev,
 for the backend part you can go inside sanity_ecommerce
 use command:
 sanity_start
